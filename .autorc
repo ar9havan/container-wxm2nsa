@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ar9havan",
+  "repo": "container-wxm2nsa",
+  "name": "ar9havan",
+}
